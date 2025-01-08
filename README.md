@@ -1,5 +1,6 @@
 # Study Buddy - Personal Study Assistant
 
+![alt text](img/imgs.png)
 Study Buddy is an interactive AI-powered study assistant that helps users engage with their study materials through a chat interface. The application uses LangChain and Ollama to provide intelligent responses based on uploaded PDF documents.
 
 ## Features
